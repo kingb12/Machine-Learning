@@ -1,10 +1,11 @@
-Cheatsheet for Machine Learning CSE 446 at UW, Wintere 2016. 
+Cheatsheet for Machine Learning CSE 446 at UW, Winter 2016. Adapting this excellent summary for my own knowledge/use. 
 
+Forked from: [https://github.com/JanetMatsen](https://github.com/JanetMatsen)
 
 Links
 -------
 
-[Class website] (http://courses.cs.washington.edu/courses/cse446/16wi/) 
+[Class website] (http://courses.cs.washington.edu/courses/cse446/16sp/) 
 
 
 
@@ -20,6 +21,4 @@ Based on:
 
 Contact 
 -------
-
-Janet Matsen
-janetmatsen@gmail.com
+For contact of original creator, see: [https://github.com/JanetMatsen](https://github.com/JanetMatsen)
